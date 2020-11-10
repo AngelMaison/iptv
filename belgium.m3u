@@ -1,0 +1,226 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234189?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/61580?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB1 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234190?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB3 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/224329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2675?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",AB3 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157414?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",ABXPLORE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13334?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",ANTENNE CENTRE TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17245?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",ARTE BELGIQUE FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/130544?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",ARTE BELGIQUE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/130545?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="Local",ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE 1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/127526?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/179483?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE 1 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/232371?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE CINE FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/232372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE CINE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/127527?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BE CINE HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/232373?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",BE | Notele,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Local;Undefined",BE | TV Oost,TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",BEL RTL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/83742?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="BELGIUM",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="BELGIUM",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="BELGIUM",Bel RTL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" group-title="BELGIUM",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",C8 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/130542?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",CANAL C HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13345?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",CANAL ZOOM HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13346?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",CLUB RTL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31985?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="BELGIUM",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="BELGIUM",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Music",City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Music",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",ELEVEN PRO LEAGUE 2
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233536?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105596?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/199225?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/199226?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105597?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/199224?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/199227?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/224326?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/224327?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/224328?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="Undefined",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="Undefined",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",FOOT+
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/29650?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",FUN RADIO HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17249?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="BELGIUM",KETNET JR HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157696?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="BELGIUM",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="BELGIUM",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Undefined",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Undefined",Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Undefined",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA TROIS
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/32380?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA TROIS FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/127523?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA TROIS HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31983?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA UNE
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31990?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA UNE FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31981?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA UNE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31987?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA UNE HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/132607?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LN24 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99112?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LN24 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/127531?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Undefined",MA Télé
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Undefined",MA Télé
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",MATÉLÉ
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17246?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PLUG RTL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/32381?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PLUG RTL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31984?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99500?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/66763?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.2 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99499?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.3 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99498?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",PROXI 11.3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="Music",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Q2
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31795?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RADIO CONTACT HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RADIO.1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157698?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="Undefined",ROB-tv
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTC TELE LIEGE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233562?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL-TVI
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31989?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL-TVI FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31986?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL-TVI HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31988?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",RTL-TVI HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/132612?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="Undefined",RTL-TVi
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="Undefined",RTL-TVi
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="Undefined",RTL-TVi
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="Music",Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="Music",Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TIPIK FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/127524?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TIPIK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31982?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TV COM HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157705?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Local",TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TV5 MONDE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/66517?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Local",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Local",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Local",TVL
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TÉLÉ MB HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13347?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",TÉLÉ SAMBRE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13348?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VEDIA HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233561?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/117528?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 1 HEVC
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/117529?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Prueba ketnet jr
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/157696?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31793?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",VTM KIDS
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/31787?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined", BX1
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/13349?checkedby:hlscat.com
